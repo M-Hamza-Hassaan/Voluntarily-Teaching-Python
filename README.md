@@ -35,16 +35,6 @@ This repository contains **structured lessons** and **hands-on projects** coveri
         and encapsulation.  
 
 ---
-
-## 💡 Join the Learning Community
-
-Learning Python is more fun when you do it together! Feel free to:  
-✅ **Ask questions**.
-✅ **Share your projects** and get feedback.  
-✅ **Contribute** by improving the content through pull requests.  
-
----
-
 ## 📩 Stay Connected  
 
 Stay updated with new lessons, exercises, and challenges.  
