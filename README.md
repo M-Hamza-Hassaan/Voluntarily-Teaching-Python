@@ -22,12 +22,17 @@ Python's **simple syntax** makes it **beginner-friendly**, yet it's powerful eno
 
 This repository contains **structured lessons** and **hands-on projects** covering:
 
-1. **Python Basics** – Variables, data types, loops, functions, and more.  
-2. **Object-Oriented Programming (OOP)** – Classes, objects, inheritance, and encapsulation.  
-3. **Data Structures & Algorithms** – Lists, dictionaries, recursion, and sorting algorithms.  
-4. **File Handling** – Reading/writing files and working with CSV and JSON.  
-5. **Libraries & Frameworks** – NumPy, Pandas, Flask, Django, and more.  
-6. **Projects & Real-World Applications** – Apply your knowledge to **real projects** and **assignments**.  
+1. **Python Basics** – 
+        Variables, 
+        data types, 
+        loops, 
+        functions, 
+        and more.
+2. **Object-Oriented Programming (OOP)** – 
+        Classes, 
+        objects, 
+        inheritance, 
+        and encapsulation.  
 
 ---
 
