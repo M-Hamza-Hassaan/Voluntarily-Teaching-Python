@@ -1,3 +1,5 @@
+![Visitor Count](https://komarev.com/ghpvc/?username=M-Hamza-Hassaan&color=green)
+
 # 🐍 Learn Python: A Journey from Beginner to Pro
 
 Welcome to the **Python Learning Repository**! 🚀 This repository is designed to help **college and university students** master Python, one of the most powerful and in-demand programming languages.
