@@ -18,7 +18,7 @@ Python is more than just a programming language—it's a **gateway to innovation
 ---
 
 
-**[Introductory Slides](https://docs.google.com/presentation/d/1MtS49cujCHNGnQuQUOePSOXJngB-XQs-aJl9D1qHJlU/edit#slide=id.p1)** => Created by [Izza Khursheed](linkedin.com/in/izzah-khursheed) and [Tayyaba Mustafa](linkedin.com/in/tayyaba-mustafa-97ba1731b)
+**[Introductory Slides](https://docs.google.com/presentation/d/1MtS49cujCHNGnQuQUOePSOXJngB-XQs-aJl9D1qHJlU/edit?usp=drivesdk)** => Created by [Izza Khursheed](linkedin.com/in/izzah-khursheed) and [Tayyaba Mustafa](linkedin.com/in/tayyaba-mustafa-97ba1731b)
 
 ---
 ### 📩 Stay Connected  
