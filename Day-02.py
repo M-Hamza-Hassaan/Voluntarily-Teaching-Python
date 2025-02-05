@@ -71,8 +71,8 @@ take input data from user.
 # practice:
 
 # # Taking user input using input() and converting data types
-# user_name = input("Enter your name: ")  # String input
-# user_age = int(input("Enter your age: "))  # Convert input string to integer
-# user_height = float(input("Enter your height in meters: "))  # Convert input string to float
+user_name = input("Enter your name: ")  # String input
+user_age = int(input("Enter your age: "))  # Convert input string to integer
+user_height = float(input("Enter your height in meters: "))  # Convert input string to float
 
-# print("Hello,", user_name, "You are", user_age, "years old and", user_height, "meters tall.")
+print("Hello,", user_name, "You are", user_age, "years old and", user_height, "meters tall.")
