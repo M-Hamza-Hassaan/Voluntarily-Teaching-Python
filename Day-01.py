@@ -1,3 +1,11 @@
+""" 
+    Introduction to Programming Languages.
+    Introduction to Compiler and Interpreter.
+    High Level Languages and Low level Languages.
+    Introduction to Python.
+    Python File extension.
+"""
+
 """
 executable python script Day-01.py
 """
