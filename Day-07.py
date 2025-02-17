@@ -7,16 +7,17 @@ Day 7
 
 print("For Loop Example:")
 
-for i in range(1, 6):  # Loops from 1 to 5
-    print(f"Iteration {i}")
 
-print("\n")
+for i in range(1, 10, 4):  # Loops from 1 to 5
+    print(f"Iteration at {i}")
+
+print("\n") #ESCAPE SEQUENCE
 
 # 2. While Loop
 print("While Loop Example:")
 n = 1
-while n <= 5:
-    print(f"Iteration {n}")
+while n < 5:
+    print(f"Iteration of {n}")
     n += 1
 
 print("\n")
@@ -25,20 +26,22 @@ print("\n")
 print("Nested Loop Example:")
 for i in range(1, 4):
     for j in range(1, 4):
-        print(f"(i={i}, j={j})", end=" ")
+        print(f"(i={i}, j={j})")
     print()  # Newline after inner loop
 
 print("\n")
 
 # 4. Loop with Break and Continue
 print("Loop with Break and Continue:")
-for i in range(1, 6):
+for i in range(1, 10):
     if i == 3:
         print("Skipping iteration 3 using continue.")
         continue
-    if i == 5:
+
+    if i == 7:
         print("Stopping loop at iteration 5 using break.")
         break
+
     print(f"Iteration {i}")
 
 print("\n")
