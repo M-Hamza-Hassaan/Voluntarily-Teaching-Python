@@ -10,10 +10,13 @@ Welcome to the **Python Learning Repository**! 🚀 This repository is designed 
 Python is more than just a programming language—it's a **gateway to innovation** and **career opportunities** in various fields, including:
 
 ---
-**[Join Zoom Meeting at 9 PM ](https://us05web.zoom.us/j/5607709638?pwd=ZYpaThCxraLblmxtRQbtEnpXjgIWHs.1)**
+
+**[ Join Zoom Meeting at 9 PM ](https://us05web.zoom.us/j/5607709638?pwd=ZYpaThCxraLblmxtRQbtEnpXjgIWHs.1)**
 
 Meeting ID:  560 770 9638
+
 Passcode: 9bYxx8
+
 ---
 
 **[Course Outline](https://docs.google.com/document/d/1mNPAhC6t9Ljcz9ZmsV6AnFLaDUSmIKInTWiOEnY1nzc/edit?tab=t.0#heading=h.7z9mrcf0zdpe)**
