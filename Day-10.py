@@ -3,64 +3,64 @@
 # 1. Introduction to Strings
 # Strings are sequences of characters enclosed in quotes
 
-# str1 = 'Hello'
-# str2 = "Python"
-# str3 = '''This is a multi-line string'''
+str1 = 'Hello'
+str2 = "Python"
+str3 = '''This is a multi-line string'''
 
-# print("Introduction to Strings:")
-# print(str1)
-# print(str2)
-# print(str3)
-# print()
+print("Introduction to Strings:")
+print(str1)
+print(str2)
+print(str3)
+print()
 
 # 2. String Concatenation
 # Using + operator to concatenate strings
-# name = input( "Enter your name: ") #got value from user,
-# greeting = f"Hello, {name}!" #concateniated and used the value
-# print("String Concatenation:")
-# print(greeting)  # Output: Hello, name!
+name = input( "Enter your name: ") #got value from user,
+greeting = f"Hello, {name}!" #concateniated and used the value
+print("String Concatenation:")
+print(greeting)  # Output: Hello, name!
 
-# # Using join() method to concatenate strings
-# words = ["1","2","3"]
-# # words = [1,2,3]
-# sentence = "".join(words)
-# print(sentence)  # Output: Hello Python Learners
-# print()
-# print(type(sentence))
+# Using join() method to concatenate strings
+words = ["1","2","3"]
+# words = [1,2,3]
+sentence = "".join(words)
+print(sentence)  # Output: Hello Python Learners
+print()
+print(type(sentence))
 
 # 3. f-Strings (Formatted Strings)
 # f-Strings allow embedding expressions inside strings
-# name = "Alice"
-# age = 20
-# print("f-Strings (Formatted Strings):")
-# print(f"My name is {name} and I am {age} years old.")
+name = "Alice"
+age = 20
+print("f-Strings (Formatted Strings):")
+print(f"My name is {name} and I am {age} years old.")
 
-# # Performing calculations in f-Strings
-# a, b = 5, 10
-# print(f"Sum of {a} and {b} is {a + b}.")
-# print()
+# Performing calculations in f-Strings
+a, b = 5, 10
+print(f"Sum of {a} and {b} is {a + b}.")
+print()
 
 # 4. Accessing String Elements
 # Strings are indexed, starting from 0
 
-# text = "Pythoninglify" #[P, y, t, h, o, n] 0 up to the last number - 1
-# print("Accessing String Elements:")
-# print(text[0])   # First character: P
-# print(text[-1])  # Last character: n
-# print(text[7])   # Third character: t
-# print()
+text = "Pythoninglify" #[P, y, t, h, o, n] 0 up to the last number - 1
+print("Accessing String Elements:")
+print(text[0])   # First character: P
+print(text[-1])  # Last character: n
+print(text[7])   # Third character: t
+print()
 
 # 5. Looping Through a String
 # Loop through each character in a string
-# text = "Python"  #[P, y, t, h, o, n]
-# print("Looping Through a String:")
-# for char in text:
-#     print(char)
+text = "Python"  #[P, y, t, h, o, n]
+print("Looping Through a String:")
+for char in text:
+    print(char)
 
 # Looping with index using enumerate()
-# for index, char in enumerate(text):
-#     print(f"Index : {index} + {char}")
-# print()
+for index, char in enumerate(text):
+    print(f"Index : {index} + {char}")
+print()
 
 # 6. String Slicing
 # Slicing strings to get parts of them
