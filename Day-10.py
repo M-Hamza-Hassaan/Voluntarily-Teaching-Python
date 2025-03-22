@@ -64,27 +64,27 @@ print()
 
 # 6. String Slicing
 # Slicing strings to get parts of them
-# text = "Python"  #[P, y, t, h, o, n]
-# print("String Slicing:")
-# print(text[0:6])   # Output: Python
-# print(text[:6])    # Output: Python (same as above)
-# print(text[7:])    # Output: Programming
-# print(text[-3:])   # Output: ing
-# print(text[::2])   # Output: Pto rgamn (every second character)
-# print()
+text = "Python"  #[P, y, t, h, o, n]
+print("String Slicing:")
+print(text[0:6])   # Output: Python
+print(text[:6])    # Output: Python (same as above)
+print(text[7:])    # Output: Programming
+print(text[-3:])   # Output: ing
+print(text[::2])   # Output: Pto rgamn (every second character)
+print()
 
-# # 7. String Methods
-# # Some commonly used string methods
-# text = "  Python Programming  "
-# print("String Methods:")
-# print(text.lower())     # Converts to lowercase
-# print(text.upper())     # Converts to uppercase
-# print(text.strip())     # Removes spaces from start and end
-# print(text.replace("Python", "Java"))  # Replace words
-# print(text.count("o"))  # Count occurrences of a character
-# print(text.find("Prog"))  # Find index of a substring
-# print(text.split())  # Splits string into a list of words
-# print()
+# 7. String Methods
+# Some commonly used string methods
+text = "  Python Programming  "
+print("String Methods:")
+print(text.lower())     # Converts to lowercase
+print(text.upper())     # Converts to uppercase
+print(text.strip())     # Removes spaces from start and end
+print(text.replace("Python", "Java"))  # Replace words
+print(text.count("o"))  # Count occurrences of a character
+print(text.find("Prog"))  # Find index of a substring
+print(text.split())  # Splits string into a list of words
+print()
 
 # Assignment 1: User's Full Name
 print("Assignment 1:")
@@ -93,26 +93,16 @@ print("Assignment 1:")
 # - The name in lowercase
 # - The length of the name
 # - The first and last characters of the name
-# full_name = input("Enter your full name: ")
-# print(f"Uppercase: {full_name.upper()}")
-# print(f"Lowercase: {full_name.lower()}")
-# print(f"Length of name: {len(full_name)}")
-# print(f"First character: {full_name[0]}")
-# print(f"Last character: {full_name[-1]}")
-# print()
+full_name = input("Enter your full name: ")
+print(f"Uppercase: {full_name.upper()}")
+print(f"Lowercase: {full_name.lower()}")
+print(f"Length of name: {len(full_name)}")
+print(f"First character: {full_name[0]}")
+print(f"Last character: {full_name[-1]}")
+print()
 
-# # Assignment 2: Word Replacement and Counting
-# print("Assignment 2:")
-# # 2. Write a program that:
-# # - Takes a sentence as input
-# # - Counts the occurrences of a word given by the user
-# # - Replaces that word with another word
-# sentence = input("Enter a sentence: ")
-# word_to_count = input("Enter a word to count: ")
-# word_to_replace = input("Enter a word to replace it with: ")
-
-# word_count = sentence.count(word_to_count)
-# updated_sentence = sentence.replace(word_to_count, word_to_replace)
-
-# print(f"Occurrences of '{word_to_count}': {word_count}")
-# print(f"Updated sentence: {updated_sentence}")
+# Assignment 2: Word Replacement and Counting
+# Write a program that:
+# - Takes a sentence as input
+# - Counts the occurrences of a word given by the user
+# - Replaces that word with another word
