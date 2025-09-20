@@ -1,5 +1,8 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=M-Hamza-Hassaan&color=green)
 
+![Function GIF](https://raw.githubusercontent.com/M-Hamza-Hassaan/Voluntarily-Teaching-Python/main/Function.gif)
+
+
 # 🐍 Learn Python: A Journey from Beginner to Pro
 
 
