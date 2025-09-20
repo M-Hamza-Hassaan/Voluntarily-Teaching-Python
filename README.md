@@ -15,7 +15,7 @@ Python is more than just a programming language—it's a **gateway to innovation
 ---
 
 **[ Join Zoom Meeting at 9 PM ](https://us05web.zoom.us/j/5607709638?pwd=ZYpaThCxraLblmxtRQbtEnpXjgIWHs.1)**
-
+(Halted)
 Meeting ID:  560 770 9638
 
 Passcode: 9bYxx8
