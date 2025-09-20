@@ -1,14 +1,14 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=M-Hamza-Hassaan&color=green)
 
-![Function GIF](https://raw.githubusercontent.com/M-Hamza-Hassaan/Voluntarily-Teaching-Python/main/Function.gif)
-
-
 # 🐍 Learn Python: A Journey from Beginner to Pro
 
 
 Welcome to the **Python Learning Repository**! 🚀 This repository is designed to help **college and university students** master Python, one of the most powerful and in-demand programming languages.
 
 ---
+
+![Function GIF](https://raw.githubusercontent.com/M-Hamza-Hassaan/Voluntarily-Teaching-Python/main/Function.gif)
+
 
 Python is more than just a programming language—it's a **gateway to innovation** and **career opportunities** in various fields, including:
 
