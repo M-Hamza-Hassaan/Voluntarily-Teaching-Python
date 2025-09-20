@@ -10,7 +10,7 @@ Welcome to the **Python Learning Repository**! 🚀 This repository is designed 
 ![Function GIF](https://raw.githubusercontent.com/M-Hamza-Hassaan/Voluntarily-Teaching-Python/main/Function.gif)
 
 
-Python is more than just a programming language—it's a **gateway to innovation** and **career opportunities** in various fields, including:
+Python is more than just a programming language—it's a **gateway to innovation** and **career opportunities** in various fields.
 
 ---
 
@@ -36,7 +36,7 @@ Passcode: 9bYxx8
 
 Stay updated with new lessons, exercises, and challenges.  
 
-📧 **Email:** damn.code.hamza@example.com  
+📧 **Email:** mhhassaan.1@gmail.com  
 🌐 **LinkedIn:** [My Profile](https://www.linkedin.com/in/muhammad-hamza-hassaan-29920a25a/)  
 
 Happy Coding! 🚀🐍  
